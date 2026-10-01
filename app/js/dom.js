@@ -9,14 +9,18 @@ export function h(tag, attrs, ...kinder) {
     else if (v === true) el.setAttribute(k, "");
     else el.setAttribute(k, v);
   }
-  anhaengen(el, kinder);
+  anhaengenListe(el, kinder);
   return el;
 }
 
-function anhaengen(el, kinder) {
+export function anhaengen(el, ...kinder) {
+  return anhaengenListe(el, kinder);
+}
+
+function anhaengenListe(el, kinder) {
   for (const k of kinder) {
     if (k == null || k === false) continue;
-    if (Array.isArray(k)) anhaengen(el, k);
+    if (Array.isArray(k)) anhaengenListe(el, k);
     else el.append(k.nodeType ? k : document.createTextNode(String(k)));
   }
 }

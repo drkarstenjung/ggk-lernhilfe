@@ -1,11 +1,12 @@
-import { h, icon, leere } from "../dom.js";
+import { h, icon, leere, anhaengen } from "../dom.js";
 
 export function startAnsicht(ctx, el) {
   leere(el);
   const kachel = (href, ico, titel, text) =>
     h("a", { class: "kachel", href }, h("span", { class: "kachel-icon" }, icon(ico, 34)), h("span", { class: "kachel-text" }, h("span", { class: "kachel-titel" }, titel), h("span", { class: "kachel-unter" }, text)), h("span", { class: "pfeil", "aria-hidden": "true" }, "›"));
   const sek = (href, ico, text) => h("a", { class: "sek-link", href }, icon(ico, 22), h("span", null, text));
-  el.append(
+  anhaengen(
+    el,
     h("p", { class: "muted center start-text" }, "Geschichte mit Gemeinschaftskunde"),
     h("div", { class: "kacheln" },
       kachel("#/quiz", "quiz", "Quiz", "10 Fragen zu einer Stunde oder BPE"),

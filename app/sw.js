@@ -5,7 +5,7 @@ const SHELL = __PRECACHE__;
 
 self.addEventListener("install", (event) => {
   // Kein skipWaiting: Die neue Version wartet, bis der Schüler im Banner auf „Jetzt aktualisieren“ tippt.
-  event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(SHELL)));
+  event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(SHELL.map((u) => new Request(u, { cache: "reload" })))));
 });
 
 self.addEventListener("message", (event) => {

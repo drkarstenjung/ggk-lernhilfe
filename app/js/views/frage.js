@@ -1,6 +1,6 @@
 // Gemeinsame Fragenanzeige für Quiz und Lernmodus (Zustand liegt in der Session, damit
 // man nach dem Nachlesen im Lesetext genau dort weitermachen kann).
-import { h, icon, leere, fortschrittsbalken } from "../dom.js";
+import { h, icon, leere, fortschrittsbalken, anhaengen } from "../dom.js";
 
 const BUCHSTABEN = ["A", "B", "C", "D"];
 
@@ -44,7 +44,8 @@ export function zeigeFrage(ctx, el, session, { onFertig }) {
     );
   });
 
-  el.append(
+  anhaengen(
+    el,
     h("div", { class: "frage-kopf" }, h("span", { class: "muted" }, `Frage ${session.i + 1} von ${n}`), session.kopfzeile ? h("span", { class: "muted klein" }, session.kopfzeile(f)) : null),
     fortschrittsbalken(session.i / n, `Fortschritt: Frage ${session.i + 1} von ${n}`),
     stunde && session.zeigeStunde ? h("p", { class: "klein muted frage-stunde" }, stunde.kurztitel) : null,
@@ -54,7 +55,8 @@ export function zeigeFrage(ctx, el, session, { onFertig }) {
 
   if (beantwortet) {
     const korrekt = session.gewaehlt === f.richtig;
-    el.append(
+    anhaengen(
+      el,
       h(
         "div",
         { class: "rueckmeldung " + (korrekt ? "richtig" : "falsch"), role: "status" },
@@ -65,7 +67,7 @@ export function zeigeFrage(ctx, el, session, { onFertig }) {
       ),
       h(
         "button",
-        { type: "button", class: "btn-primaer", "data-weiter": "1", onclick: () => (session.i < n - 1 ? (session.i++, (session.gewaehlt = null), zeigeFrage(ctx, el, session, { onFertig }), el.scrollIntoView?.({ block: "start" })) : onFertig()) },
+        { type: "button", class: "btn-primaer", "data-weiter": "1", onclick: () => (session.i < n - 1 ? (session.i++, (session.gewaehlt = null), zeigeFrage(ctx, el, session, { onFertig }), window.scrollTo(0, 0)) : onFertig()) },
         session.i < n - 1 ? "Weiter" : "Zur Auswertung"
       )
     );

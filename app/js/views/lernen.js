@@ -70,11 +70,11 @@ export function lernenEnde(ctx, el) {
   leere(el);
   const richtig = s.ergebnisse.filter((x) => x.korrekt).length;
   const hoch = s.verschiebungen.filter((v) => v.nach > v.von).length;
-  const zurueck = s.verschiebungen.filter((v) => v.nach < v.von).length;
+  const falsch = s.verschiebungen.filter((v) => !v.korrekt).length;
   const gesichert = s.verschiebungen.filter((v) => v.nach === 5 && v.von < 5).length;
   el.append(
     h("p", { class: "punktzahl" }, `${richtig} von ${s.fragen.length} richtig`),
-    h("p", { class: "muted" }, `${hoch} Frage(n) eine Stufe höher, ${zurueck} zurück in Kasten 1${gesichert ? `, ${gesichert} neu gesichert (Kasten 5)` : ""}.`),
+    h("p", { class: "muted" }, `${hoch} Frage(n) eine Stufe höher, ${falsch} falsch beantwortet (zurück in Kasten 1)${gesichert ? `, ${gesichert} neu gesichert (Kasten 5)` : ""}.`),
     h("ul", { class: "verschiebungen" },
       s.verschiebungen.map((v) =>
         h("li", { class: v.korrekt ? "ok" : "nok" }, h("span", { class: "v-status" }, v.korrekt ? "Richtig" : "Falsch"), h("span", { class: "v-text" }, v.frage.frage), h("span", { class: "v-kasten" }, `Kasten ${v.von} → ${v.nach}`))

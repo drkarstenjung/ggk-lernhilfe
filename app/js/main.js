@@ -54,6 +54,7 @@ function zeigeBanner(text, aktion) {
 }
 
 function route() {
+  if (!ctx.daten) return;
   quizAufraeumen();
   lernenAufraeumen();
   const teile = decodeURIComponent(location.hash.replace(/^#\/?/, "")).split("/").filter(Boolean);
@@ -105,10 +106,8 @@ async function pruefeAktualisierung(registration) {
 }
 
 async function start() {
-  let registration = null;
-  if ("serviceWorker" in navigator) {
-    try { registration = await navigator.serviceWorker.register("sw.js"); } catch { /* ohne Service Worker weiter */ }
-  }
+  // Service Worker nicht abwarten: Ohne Netz kann die Registrierung dauern, die App soll trotzdem sofort starten.
+  const registrierung = "serviceWorker" in navigator ? navigator.serviceWorker.register("sw.js").catch(() => null) : Promise.resolve(null);
   try {
     ctx.daten = await ladeDaten();
   } catch (e) {
@@ -118,6 +117,6 @@ async function start() {
   ctx.stand = bereinige(ctx.stand, ctx.gueltige());
   ctx.speichern();
   route();
-  pruefeAktualisierung(registration);
+  registrierung.then((r) => pruefeAktualisierung(r));
 }
 start();

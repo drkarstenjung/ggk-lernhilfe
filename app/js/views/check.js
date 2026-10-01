@@ -89,7 +89,7 @@ export function checkStunde(ctx, el, stundeId) {
         h("a", { class: "btn-sekundaer", href: `#/check/${s.id}`, onclick: (e) => { e.preventDefault(); checkStunde(ctx, el, s.id); } }, "Einschätzung wiederholen"),
         h("a", { class: "btn-text", href: "#/check" }, "Zurück zur Auswahl"))
     );
-    el.scrollIntoView?.({ block: "start" });
+    window.scrollTo(0, 0);
   }
   return "Kompetenzcheck";
 }

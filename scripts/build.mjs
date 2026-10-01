@@ -20,7 +20,7 @@ if (erg.fehler.length) {
   process.exit(1);
 }
 
-rmSync(dist, { recursive: true, force: true });
+rmSync(dist, { recursive: true, force: true, maxRetries: 5, retryDelay: 100 });
 mkdirSync(dist, { recursive: true });
 cpSync(join(wurzel, "app"), dist, { recursive: true });
 mkdirSync(join(dist, "data/lessons"), { recursive: true });
@@ -47,7 +47,7 @@ const stunden = sichtbar
 writeFileSync(join(dist, "data/manifest.json"), JSON.stringify({ version, erzeugt: new Date().toISOString(), stunden }, null, 2));
 
 // Service Worker: Hash und Precache-Liste eintragen
-const shell = alle(dist).map((p) => "./" + relative(dist, p)).filter((p) => p !== "./sw.js" && p !== "./data/manifest.json");
+const shell = alle(dist).map((p) => "./" + relative(dist, p)).filter((p) => p !== "./sw.js");
 shell.unshift("./");
 let sw = readFileSync(join(dist, "sw.js"), "utf8");
 sw = sw.replace("__BUILD_HASH__", version).replace("__PRECACHE__", JSON.stringify(shell, null, 2));
