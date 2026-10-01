@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "id": "11-1.1-wiederholung-18-jh",
+  "jahrgang": 11,
+  "bpe": "1.1",
+  "kurztitel": "Wiederholung: Deutschland und Europa im 18. Jahrhundert",
+  "reihenfolge": 1,
+  "lesetext": [
+    {
+      "abschnitt_id": "a1",
+      "ueberschrift": "Deutschland und Europa am Vorabend der Revolution",
+      "text_md": "Wer um 1789 von „Deutschland“ sprach, meinte keinen Staat, sondern einen Sprach- und Kulturraum. Der politische Rahmen war das Heilige Römische Reich, seit dem 15. Jahrhundert häufig mit dem Zusatz „Deutscher Nation“ versehen. Es bestand seit der Kaiserkrönung Ottos I. im Jahr 962 und reichte 1789 von Nord- und Ostsee bis zu den Alpen, von der Maas bis über die Oder. Dazu gehörten auch die Österreichischen Niederlande (heute Belgien), Böhmen, Mähren und Schlesien."
+    },
+    {
+      "abschnitt_id": "a2",
+      "ueberschrift": "Die Ordnung des Reiches",
+      "text_md": "An der Spitze stand der Kaiser, 1789 der Habsburger Joseph II. Er wurde von den Kurfürsten gewählt und musste vor der Wahl in einer Wahlkapitulation die Rechte der Reichsstände bestätigen. Seit 1777 gab es acht Kurfürsten: die Erzbischöfe von Mainz, Köln und Trier sowie die weltlichen Kurfürsten von Böhmen, Pfalz-Bayern, Sachsen, Brandenburg und Braunschweig-Lüneburg (Hannover). Seit 1663 tagte in Regensburg der „Immerwährende Reichstag“ in drei Kollegien: Kurfürsten, Fürsten und Reichsstädte. Streitfälle entschieden zwei oberste Gerichte, das Reichskammergericht in Wetzlar und der Reichshofrat in Wien. Das Reich war zudem in zehn Reichskreise gegliedert, die etwa Truppen stellten oder Münzwesen und Straßen regelten."
+    },
+    {
+      "abschnitt_id": "a3",
+      "ueberschrift": "Vielfalt der Territorien",
+      "text_md": "Die eigentliche Herrschaft übten die Landesherren aus. Seit dem Westfälischen Frieden von 1648 besaßen die Reichsstände die Landeshoheit und durften Bündnisse schließen, sofern diese sich nicht gegen Kaiser und Reich richteten. Neben großen weltlichen Territorien gab es geistliche Fürstentümer, die von Erzbischöfen, Bischöfen oder Äbten regiert wurden, rund 50 Reichsstädte und hunderte kleinster Herrschaften reichsunmittelbarer Ritter. Insgesamt zählte man rund 300 Reichsstände. Besonders zersplittert war der Südwesten: Hier lagen das Herzogtum Württemberg, die 1771 wiedervereinigte Markgrafschaft Baden, die habsburgischen Gebiete Vorderösterreichs mit dem Breisgau und den Waldstädten am Hochrhein, das Fürstentum Fürstenberg, zahlreiche Reichsstädte und Klosterherrschaften."
+    },
+    {
+      "abschnitt_id": "a4",
+      "ueberschrift": "Der deutsche Dualismus",
+      "text_md": "Zwei Mächte ragten heraus: die Habsburgermonarchie und Preußen. Beide besaßen große Gebiete innerhalb des Reiches, aber auch außerhalb, Österreich etwa Ungarn und Galizien, Preußen das namengebende Herzogtum Preußen. In den Schlesischen Kriegen und im Siebenjährigen Krieg (1756–1763) behauptete Friedrich II. von Preußen das eroberte Schlesien gegen Österreich. Seitdem war Preußen eine Großmacht. Die Rivalität prägte auch die Reichspolitik: Als Joseph II. Bayern gegen die Österreichischen Niederlande eintauschen wollte, verhinderte Preußen dies im Bayerischen Erbfolgekrieg (1778/79) und durch den Fürstenbund von 1785."
+    },
+    {
+      "abschnitt_id": "a5",
+      "ueberschrift": "Europa um 1789",
+      "text_md": "Die europäische Politik bestimmten fünf Großmächte, die sogenannte Pentarchie: Frankreich, Großbritannien, die Habsburgermonarchie, Preußen und Russland. Ihr Leitprinzip war das Gleichgewicht der Mächte: Kein Staat sollte so stark werden, dass er die anderen beherrschen konnte. Dieses Gleichgewicht wurde oft auf Kosten Schwächerer hergestellt. Polen-Litauen, ein Wahlkönigtum mit starkem Adel und schwacher Zentralgewalt, wurde 1772 erstmals von Russland, Preußen und Österreich geteilt; 1793 und 1795 folgten die zweite und dritte Teilung. Frankreich war die bevölkerungsreichste Macht Westeuropas, aber hoch verschuldet. Großbritannien war eine parlamentarische Monarchie, hatte 1783 jedoch seine nordamerikanischen Kolonien verloren, die sich 1776 für unabhängig erklärt hatten."
+    },
+    {
+      "abschnitt_id": "a6",
+      "ueberschrift": "Gesellschaft und Ideen",
+      "text_md": "Die Gesellschaft war ständisch gegliedert: Geburt entschied über Rechte, Pflichten und Lebenschancen. Über 80 Prozent der Menschen lebten auf dem Land, viele in Abhängigkeit von Grundherren. Zugleich verbreitete die Aufklärung die Forderung, Herrschaft müsse sich vor der Vernunft rechtfertigen. Monarchen wie Friedrich II. oder Joseph II. griffen Ideen der Aufklärung auf, etwa mit dem Toleranzpatent Josephs II. von 1781, hielten aber an ihrer unbeschränkten Macht fest. Man spricht vom aufgeklärten Absolutismus."
+    },
+    {
+      "abschnitt_id": "a7",
+      "ueberschrift": "Monstrum oder Friedensordnung?",
+      "text_md": "Schon 1667 nannte der Staatsrechtler Samuel Pufendorf das Reich einen „irregulären Körper, einem Monstrum ähnlich“. Die nationalstaatlich geprägte Geschichtsschreibung des 19. Jahrhunderts sah darin vor allem Schwäche und Zerfall. Die neuere Forschung betont dagegen, dass das Reich als Rechts- und Friedensordnung funktionierte: Es schützte kleine Stände vor mächtigen Nachbarn, und selbst Untertanen konnten vor den Reichsgerichten gegen ihre Landesherren klagen. Militärisch und außenpolitisch blieb es jedoch kaum handlungsfähig."
+    },
+    {
+      "abschnitt_id": "a8",
+      "ueberschrift": "Ausblick",
+      "text_md": "Die Französische Revolution von 1789 und die folgenden Kriege brachten diese Ordnung zum Einsturz. Im Frieden von Lunéville (1801) fiel das linke Rheinufer an Frankreich. Der Reichsdeputationshauptschluss von 1803 entschädigte die betroffenen Fürsten durch die Auflösung fast aller geistlichen Territorien und Reichsstädte. 1806 legte Franz II. die Kaiserkrone nieder. Die Karte von 1789 zeigt also die letzte Momentaufnahme einer über 800 Jahre gewachsenen Ordnung."
+    }
+  ],
+  "fragen": [
+    {
+      "id": "11-1.1-wiederholung-18-jh-q01",
+      "frage": "Wer wählte im Heiligen Römischen Reich den Kaiser?",
+      "antworten": [
+        "Der Papst",
+        "Die Kurfürsten",
+        "Das Volk in einer allgemeinen Wahl",
+        "Der König von Frankreich"
+      ],
+      "richtig": 1,
+      "schwierigkeit": "leicht",
+      "relevanz": "kern",
+      "erklaerung": "Der Kaiser wurde von den Kurfürsten gewählt und musste vor der Wahl in einer Wahlkapitulation die Rechte der Reichsstände bestätigen.",
+      "lesetext_ref": "a2"
+    },
+    {
+      "id": "11-1.1-wiederholung-18-jh-q02",
+      "frage": "Was war „Deutschland“ um 1789?",
+      "antworten": [
+        "Ein Nationalstaat unter der Führung Preußens",
+        "Ein Sprach- und Kulturraum, aber kein Staat",
+        "Eine Republik mit Hauptstadt in Frankfurt",
+        "Ein Königreich unter dem Haus Habsburg"
+      ],
+      "richtig": 1,
+      "schwierigkeit": "leicht",
+      "relevanz": "kern",
+      "erklaerung": "„Deutschland“ bezeichnete keinen Staat, sondern einen Sprach- und Kulturraum. Der politische Rahmen war das Heilige Römische Reich.",
+      "lesetext_ref": "a1"
+    },
+    {
+      "id": "11-1.1-wiederholung-18-jh-q03",
+      "frage": "Wie nennt man die fünf europäischen Großmächte des späten 18. Jahrhunderts?",
+      "antworten": [
+        "Triumvirat",
+        "Dreibund",
+        "Hanse",
+        "Pentarchie"
+      ],
+      "richtig": 3,
+      "schwierigkeit": "leicht",
+      "relevanz": "kern",
+      "erklaerung": "Frankreich, Großbritannien, die Habsburgermonarchie, Preußen und Russland bildeten die Pentarchie. Ihr Leitprinzip war das Gleichgewicht der Mächte.",
+      "lesetext_ref": "a5"
+    },
+    {
+      "id": "11-1.1-wiederholung-18-jh-q04",
+      "frage": "Welche beiden obersten Gerichte entschieden Streitfälle im Reich?",
+      "antworten": [
+        "Reichskammergericht (Wien) und Reichshofrat (Wetzlar)",
+        "Reichskammergericht (Wetzlar) und Reichshofrat (Wien)",
+        "Reichskammergericht (Regensburg) und Reichshofrat (Wien)",
+        "Reichskammergericht (Wetzlar) und Reichshofrat (Regensburg)"
+      ],
+      "richtig": 1,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Das Reichskammergericht tagte in Wetzlar, der Reichshofrat in Wien. In Regensburg tagte der Reichstag, kein Gericht.",
+      "lesetext_ref": "a2"
+    },
+    {
+      "id": "11-1.1-wiederholung-18-jh-q05",
+      "frage": "Wo tagte der „Immerwährende Reichstag“ seit 1663, und aus welchen drei Kollegien bestand er?",
+      "antworten": [
+        "In Frankfurt am Main; Kurfürsten, Adel und Klerus",
+        "In Regensburg; Adel, Klerus und Dritter Stand",
+        "In Regensburg; Kurfürsten, Fürsten und Reichsstädte",
+        "In Wien; Kurfürsten, Fürsten und Reichsstädte"
+      ],
+      "richtig": 2,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Der Reichstag tagte seit 1663 dauerhaft in Regensburg, gegliedert in die Kollegien der Kurfürsten, der Fürsten und der Reichsstädte. Adel, Klerus und Dritter Stand sind die Stände Frankreichs.",
+      "lesetext_ref": "a2"
+    },
+    {
+      "id": "11-1.1-wiederholung-18-jh-q06",
+      "frage": "Was erhielten die Reichsstände im Westfälischen Frieden von 1648?",
+      "antworten": [
+        "Volle Souveränität, auch Bündnisse gegen den Kaiser",
+        "Landeshoheit und das Recht auf Bündnisse, nicht gegen Kaiser und Reich",
+        "Das Recht, aus dem Reich auszutreten",
+        "Das Recht, den Kaiser ohne die Kurfürsten zu wählen"
+      ],
+      "richtig": 1,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Seit 1648 besaßen die Reichsstände die Landeshoheit und durften Bündnisse schließen, sofern diese sich nicht gegen Kaiser und Reich richteten. Das ist der Kern der Ordnung zwischen Kleinstaaterei und Reichsverband.",
+      "lesetext_ref": "a3"
+    },
+    {
+      "id": "11-1.1-wiederholung-18-jh-q07",
+      "frage": "Wodurch stieg Preußen unter Friedrich II. zur europäischen Großmacht auf?",
+      "antworten": [
+        "Durch die Behauptung des eroberten Schlesiens gegen Österreich",
+        "Durch die Erlangung der Kaiserkrone",
+        "Durch den Tausch Bayerns gegen die Österreichischen Niederlande",
+        "Durch die Teilung Frankreichs im Jahr 1756"
+      ],
+      "richtig": 0,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "In den Schlesischen Kriegen und im Siebenjährigen Krieg (1756–1763) behauptete Friedrich II. Schlesien gegen Österreich; seitdem war Preußen Großmacht. Den Tausch Bayerns gegen die Niederlande wollte Joseph II. erreichen; Preußen verhinderte ihn.",
+      "lesetext_ref": "a4"
+    },
+    {
+      "id": "11-1.1-wiederholung-18-jh-q08",
+      "frage": "Wie beurteilt die neuere Forschung das Reich im Unterschied zur nationalstaatlichen Geschichtsschreibung des 19. Jahrhunderts?",
+      "antworten": [
+        "Als Vorläufer des Nationalstaats von 1871",
+        "Als zentralistischen Staat mit starker Armee",
+        "Als Rechts- und Friedensordnung, die kleine Stände schützte",
+        "Als reinen Zerfallsprozess ohne jede Funktion"
+      ],
+      "richtig": 2,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Die neuere Forschung betont, dass das Reich als Rechts- und Friedensordnung funktionierte und kleine Stände schützte. Die ältere nationalstaatliche Sicht sah vor allem Schwäche und Zerfall. Militärisch blieb das Reich dennoch kaum handlungsfähig.",
+      "lesetext_ref": "a7"
+    },
+    {
+      "id": "11-1.1-wiederholung-18-jh-q09",
+      "frage": "Wie bezeichnete der Staatsrechtler Samuel Pufendorf 1667 das Reich?",
+      "antworten": [
+        "Als unvollkommene Erbmonarchie",
+        "Als Bündnis freier Republiken",
+        "Als irregulären Körper, einem Monstrum ähnlich",
+        "Als ältesten Staat Europas"
+      ],
+      "richtig": 2,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "neben",
+      "erklaerung": "Pufendorf nannte das Reich 1667 einen „irregulären Körper, einem Monstrum ähnlich“, weil es sich keiner klassischen Staatsform zuordnen ließ.",
+      "lesetext_ref": "a7"
+    },
+    {
+      "id": "11-1.1-wiederholung-18-jh-q10",
+      "frage": "Welche Maßnahme nennt der Text als Beispiel dafür, dass Joseph II. Ideen der Aufklärung aufgriff?",
+      "antworten": [
+        "Die Einführung der Gewaltenteilung",
+        "Das Toleranzpatent von 1781",
+        "Die Abschaffung des Kaisertitels",
+        "Die Einberufung eines gewählten Parlaments"
+      ],
+      "richtig": 1,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "neben",
+      "erklaerung": "Das Toleranzpatent von 1781 gilt als Beispiel für den aufgeklärten Absolutismus: Reformen im Sinne der Aufklärung bei unbeschränkter Macht des Monarchen.",
+      "lesetext_ref": "a6"
+    }
+  ],
+  "kompetenzen": [
+    {
+      "id": "11-1.1-wiederholung-18-jh-k1",
+      "kann_aussage": "Ich kann die Institutionen des Heiligen Römischen Reiches (Kaiser, Kurfürsten, Reichstag, Reichsgerichte) benennen und ihre Aufgaben beschreiben.",
+      "typ": "sachwissen",
+      "lernhinweise": {
+        "1": "Prüfe, ob das hält: Nenne Sitz und Zusammensetzung von Reichstag und Reichsgerichten ohne Nachsehen.",
+        "2": "Lies den Abschnitt „Die Ordnung des Reiches“ noch einmal und achte auf Sitz und Zusammensetzung von Reichstag und Reichsgerichten.",
+        "3": "Lege eine Tabelle an mit den Spalten Institution, Sitz, Zusammensetzung und Aufgabe, und fülle sie aus dem Abschnitt „Die Ordnung des Reiches“ aus.",
+        "4": "Gehe den Abschnitt „Die Ordnung des Reiches“ Satz für Satz durch und schreibe zu jeder Institution einen Satz: Wer? Wo? Welche Aufgabe? Übe danach die Fragen dieser Stunde im Lernmodus."
+      },
+      "lesetext_ref": "a2"
+    },
+    {
+      "id": "11-1.1-wiederholung-18-jh-k2",
+      "kann_aussage": "Ich kann erklären, warum das Reich um 1789 kein Nationalstaat war und welche Rolle Österreich und Preußen darin spielten.",
+      "typ": "sachwissen",
+      "lernhinweise": {
+        "1": "Prüfe dich: Erkläre einer Mitschülerin oder einem Mitschüler in zwei Minuten, warum das Reich kein Nationalstaat war.",
+        "2": "Lies die Abschnitte „Vielfalt der Territorien“ und „Der deutsche Dualismus“ noch einmal und halte fest, was beide Mächte außerhalb des Reiches besaßen.",
+        "3": "Notiere in zwei Spalten, was für das Reich als Einheit sprach (Kaiser, Reichstag, Gerichte, Sprache) und was dagegen (Landeshoheit, Dualismus, Vielzahl der Territorien).",
+        "4": "Beginne mit dem Abschnitt „Vielfalt der Territorien“ und notiere drei Merkmale der Zersplitterung. Lies dann „Der deutsche Dualismus“ und halte fest, warum Österreich und Preußen mehr waren als Reichsstände."
+      },
+      "lesetext_ref": "a4"
+    },
+    {
+      "id": "11-1.1-wiederholung-18-jh-k3",
+      "kann_aussage": "Ich kann eine Geschichtskarte des Reiches von 1789 mit Hilfe der Legende lesen und die wichtigsten Territorien lokalisieren.",
+      "typ": "methode",
+      "lernhinweise": {
+        "1": "Prüfe dich: Zeige auf einer leeren Umrisskarte aus dem Gedächtnis Österreich, Preußen, Sachsen, Bayern und Württemberg.",
+        "2": "Übe mit der Karte aus der Stunde die vier Schritte (Erschließen, Beschreiben, Erklären, Kritisch prüfen) noch einmal an einer zweiten Karte aus deinem Atlas.",
+        "3": "Suche im Atlas eine Karte des Reiches um 1789. Bestimme zuerst Titel, Zeitpunkt und Legende, und lokalisiere dann Mainz, Köln, Trier, Regensburg, Wetzlar und Wien.",
+        "4": "Gehe die vier Schritte der Kartenarbeit Schritt für Schritt mit der Karte aus der Stunde durch und bitte in der nächsten Stunde um Hilfe bei der Legende."
+      },
+      "lesetext_ref": "a3"
+    },
+    {
+      "id": "11-1.1-wiederholung-18-jh-k4",
+      "kann_aussage": "Ich kann Texte aus dem 18. Jahrhundert verstehen, einordnen und begründen, ob das Reich ein Staat war.",
+      "typ": "urteilen",
+      "lernhinweise": {
+        "1": "Prüfe dich: Begründe in drei Sätzen, ob das Reich ein Staat war, und nenne dabei, welchen Staatsbegriff du zugrunde legst.",
+        "2": "Lies den Abschnitt „Monstrum oder Friedensordnung?“ und prüfe, ob dein Urteil sowohl die Stärken als auch die Schwächen des Reiches berücksichtigt.",
+        "3": "Stelle bei Moser und Hegel jeweils den Maßstab fest, an dem sie das Reich messen (Freiheit und Recht oder Handlungsfähigkeit), und begründe danach dein eigenes Urteil.",
+        "4": "Lies zuerst den Abschnitt „Monstrum oder Friedensordnung?“. Schreibe dann auf, was für und was gegen die Aussage spricht, das Reich sei ein Staat gewesen, und entscheide dich begründet."
+      },
+      "lesetext_ref": "a7"
+    }
+  ]
+}
