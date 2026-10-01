@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>GGK-Lernhilfe</title>
+  <rect width="512" height="512" rx="96" fill="#14284B"/>
+  <g fill="#C9A24B" transform="translate(0,14)">
+    <!-- Quadriga: vier Pferde, Wagen, Victoria mit Stab und Kranz -->
+    <path d="M196 160 L196 140 Q196 128 210 128 L304 128 L304 160 Z"/>
+    <g fill="none" stroke="#C9A24B" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M212 134 Q208 108 204 104 L190 112"/>
+      <path d="M232 134 Q230 112 226 108 L212 116"/>
+      <path d="M252 134 Q252 116 248 112 L234 120"/>
+      <path d="M272 134 Q273 122 270 118 L256 126"/>
+      <path d="M312 132 L312 102"/>
+      <path d="M312 110 L334 94"/>
+    </g>
+    <circle cx="312" cy="90" r="9"/>
+    <path d="M312 104 L292 92 L296 114 Z"/>
+    <circle cx="338" cy="88" r="9" fill="none" stroke="#C9A24B" stroke-width="5"/>
+    <rect x="296" y="128" width="30" height="24" rx="4"/>
+    <circle cx="312" cy="150" r="14"/>
+    <circle cx="312" cy="150" r="6" fill="#14284B"/>
+    <!-- Attika -->
+    <rect x="112" y="160" width="288" height="40" rx="2"/>
+    <rect x="100" y="200" width="312" height="16"/>
+    <rect x="92" y="216" width="328" height="12"/>
+    <!-- Säulen: sechs Stück, fünf Durchgänge (mittlerer breiter) -->
+    <g>
+      <rect x="104" y="228" width="24" height="132"/>
+      <rect x="156" y="228" width="24" height="132"/>
+      <rect x="208" y="228" width="24" height="132"/>
+      <rect x="280" y="228" width="24" height="132"/>
+      <rect x="332" y="228" width="24" height="132"/>
+      <rect x="384" y="228" width="24" height="132"/>
+    </g>
+    <!-- Stufen -->
+    <rect x="92" y="360" width="328" height="12"/>
+    <rect x="80" y="372" width="352" height="12"/>
+  </g>
+  <!-- feine Fugen im Gebälk -->
+  <g stroke="#14284B" stroke-width="3" opacity=".7" transform="translate(0,14)">
+    <line x1="112" y1="180" x2="400" y2="180"/>
+    <line x1="92" y1="216" x2="420" y2="216"/>
+  </g>
+</svg>

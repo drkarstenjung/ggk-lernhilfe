@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>GGK-Lernhilfe</title>
+<meta name="description" content="Lernhilfe für Geschichte mit Gemeinschaftskunde am Beruflichen Gymnasium. Keine Konten, keine Datenübertragung." />
+<meta name="theme-color" content="#14284b" />
+<link rel="manifest" href="manifest.webmanifest" />
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png" />
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+<a class="skip-link" href="#app">Zum Inhalt springen</a>
+<header id="topbar">
+  <button id="btn-back" class="icon-btn" type="button" aria-label="Zurück" hidden></button>
+  <h1 id="topbar-title">GGK-Lernhilfe</h1>
+  <nav class="topbar-actions" aria-label="Weitere Bereiche">
+    <a id="nav-stand" class="icon-btn" href="#/stand" aria-label="Lernstand" title="Lernstand"></a>
+    <a id="nav-info" class="icon-btn" href="#/info" aria-label="Info" title="Info"></a>
+  </nav>
+</header>
+<div id="banner" class="banner" role="status" hidden></div>
+<main id="app" tabindex="-1"><p class="muted center">Lade …</p></main>
+<noscript><p style="padding:16px">Diese App benötigt JavaScript.</p></noscript>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

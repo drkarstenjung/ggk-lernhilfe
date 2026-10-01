@@ -1,0 +1,14 @@
+{
+  "stufen": {
+    "1": "Du fühlst dich sicher. Prüfe das mit dem Quiz zu dieser Stunde. Beantworte dieselben Fragen nach einigen Tagen im Lernmodus noch einmal; so zeigt sich, was wirklich hängen geblieben ist.",
+    "2": "Du hast eine gute Grundlage. Schließe die verbleibenden Lücken: Beantworte die Fragen dieser Stunde im Lernmodus und lies die Abschnitte nach, bei denen du Fehler machst.",
+    "3": "Es gibt noch Lücken. Lies den Lesetext der Stunde Abschnitt für Abschnitt noch einmal und notiere dir Personen, Daten und Begriffe. Danach: Quiz zu dieser Stunde.",
+    "4": "Beginne mit dem Lesetext der Stunde und halte zu jedem Abschnitt die Kernaussage in einem Satz fest. Übe danach die Fragen im Lernmodus, bis die meisten in Kasten 3 oder höher liegen. Bleibt etwas unklar, frage in der nächsten Stunde nach."
+  },
+  "typen": {
+    "sachwissen": "Dieses Wissen trainiert die App direkt: Quiz und Lernmodus helfen dir hier unmittelbar.",
+    "quellenarbeit": "Quellenarbeit übst du vor allem im Unterricht. Die App hilft dir beim Sachwissen, das du dafür brauchst.",
+    "urteilen": "Urteilen übst du vor allem im Unterricht. Die App hilft dir beim Sachwissen, auf dem dein Urteil aufbaut.",
+    "methode": "Methoden übst du vor allem im Unterricht. Die App hilft dir beim Sachwissen dahinter."
+  }
+}

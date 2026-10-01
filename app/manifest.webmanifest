@@ -1,0 +1,17 @@
+{
+  "name": "GGK-Lernhilfe",
+  "short_name": "GGK-Lernhilfe",
+  "description": "Lernhilfe für Geschichte mit Gemeinschaftskunde am Beruflichen Gymnasium. Keine Konten, keine Datenübertragung.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#14284b",
+  "theme_color": "#14284b",
+  "lang": "de",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

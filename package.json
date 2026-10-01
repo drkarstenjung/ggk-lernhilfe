@@ -1,0 +1,21 @@
+{
+  "name": "ggk-lernhilfe",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GGK-Lernhilfe: PWA zum Lernen für Geschichte mit Gemeinschaftskunde (Berufliches Gymnasium BW)",
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build.mjs",
+    "build:dev": "node scripts/build.mjs --examples",
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test tests/",
+    "icons": "node scripts/make-icons.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2"
+  }
+}

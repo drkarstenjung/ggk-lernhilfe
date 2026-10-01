@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "id": "test-b",
+  "jahrgang": 12,
+  "bpe": "2.1",
+  "kurztitel": "Testdaten B",
+  "reihenfolge": 1,
+  "lesetext": [
+    {
+      "abschnitt_id": "a1",
+      "ueberschrift": "Erster Abschnitt",
+      "text_md": "Dies ist ein **Platzhaltertext** zu Testdaten B. Hier steht später der echte Lesetext.\n\nEin zweiter Absatz mit *Betonung* und <b>HTML, das nicht interpretiert wird</b>.\n\n- Erster Listenpunkt\n- Zweiter Listenpunkt"
+    },
+    {
+      "abschnitt_id": "a2",
+      "ueberschrift": "Zweiter Abschnitt",
+      "text_md": "### Zwischenüberschrift\n\nWeiterer Platzhaltertext zu Testdaten B.\n\n1. Erster Schritt\n2. Zweiter Schritt"
+    }
+  ],
+  "fragen": [
+    {
+      "id": "test-b-q01",
+      "frage": "Platzhalterfrage 1 zu Testdaten B: Welche Antwort ist richtig?",
+      "antworten": [
+        "Richtige Antwort zu Frage 1 (A)",
+        "Falsche Antwort B zu Frage 1, 1",
+        "Falsche Antwort C zu Frage 1, 2",
+        "Falsche Antwort D zu Frage 1, 3"
+      ],
+      "richtig": 0,
+      "schwierigkeit": "leicht",
+      "relevanz": "kern",
+      "erklaerung": "Erklärung zu Frage 1: Hier steht in ein bis zwei Sätzen, warum die richtige Antwort stimmt.",
+      "lesetext_ref": "a1"
+    },
+    {
+      "id": "test-b-q02",
+      "frage": "Platzhalterfrage 2 zu Testdaten B: Welche Antwort ist richtig?",
+      "antworten": [
+        "Falsche Antwort A zu Frage 2, 0",
+        "Richtige Antwort zu Frage 2 (B)",
+        "Falsche Antwort C zu Frage 2, 2",
+        "Falsche Antwort D zu Frage 2, 3"
+      ],
+      "richtig": 1,
+      "schwierigkeit": "leicht",
+      "relevanz": "kern",
+      "erklaerung": "Erklärung zu Frage 2: Hier steht in ein bis zwei Sätzen, warum die richtige Antwort stimmt.",
+      "lesetext_ref": "a2"
+    },
+    {
+      "id": "test-b-q03",
+      "frage": "Platzhalterfrage 3 zu Testdaten B: Welche Antwort ist richtig?",
+      "antworten": [
+        "Falsche Antwort A zu Frage 3, 0",
+        "Falsche Antwort B zu Frage 3, 1",
+        "Richtige Antwort zu Frage 3 (C)",
+        "Falsche Antwort D zu Frage 3, 3"
+      ],
+      "richtig": 2,
+      "schwierigkeit": "leicht",
+      "relevanz": "kern",
+      "erklaerung": "Erklärung zu Frage 3: Hier steht in ein bis zwei Sätzen, warum die richtige Antwort stimmt.",
+      "lesetext_ref": "a1"
+    },
+    {
+      "id": "test-b-q04",
+      "frage": "Platzhalterfrage 4 zu Testdaten B: Welche Antwort ist richtig?",
+      "antworten": [
+        "Falsche Antwort A zu Frage 4, 0",
+        "Falsche Antwort B zu Frage 4, 1",
+        "Falsche Antwort C zu Frage 4, 2",
+        "Richtige Antwort zu Frage 4 (D)"
+      ],
+      "richtig": 3,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Erklärung zu Frage 4: Hier steht in ein bis zwei Sätzen, warum die richtige Antwort stimmt.",
+      "lesetext_ref": "a2"
+    },
+    {
+      "id": "test-b-q05",
+      "frage": "Platzhalterfrage 5 zu Testdaten B: Welche Antwort ist richtig?",
+      "antworten": [
+        "Richtige Antwort zu Frage 5 (A)",
+        "Falsche Antwort B zu Frage 5, 1",
+        "Falsche Antwort C zu Frage 5, 2",
+        "Falsche Antwort D zu Frage 5, 3"
+      ],
+      "richtig": 0,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Erklärung zu Frage 5: Hier steht in ein bis zwei Sätzen, warum die richtige Antwort stimmt.",
+      "lesetext_ref": "a1"
+    },
+    {
+      "id": "test-b-q06",
+      "frage": "Platzhalterfrage 6 zu Testdaten B: Welche Antwort ist richtig?",
+      "antworten": [
+        "Falsche Antwort A zu Frage 6, 0",
+        "Richtige Antwort zu Frage 6 (B)",
+        "Falsche Antwort C zu Frage 6, 2",
+        "Falsche Antwort D zu Frage 6, 3"
+      ],
+      "richtig": 1,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Erklärung zu Frage 6: Hier steht in ein bis zwei Sätzen, warum die richtige Antwort stimmt.",
+      "lesetext_ref": "a2"
+    },
+    {
+      "id": "test-b-q07",
+      "frage": "Platzhalterfrage 7 zu Testdaten B: Welche Antwort ist richtig?",
+      "antworten": [
+        "Falsche Antwort A zu Frage 7, 0",
+        "Falsche Antwort B zu Frage 7, 1",
+        "Richtige Antwort zu Frage 7 (C)",
+        "Falsche Antwort D zu Frage 7, 3"
+      ],
+      "richtig": 2,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Erklärung zu Frage 7: Hier steht in ein bis zwei Sätzen, warum die richtige Antwort stimmt.",
+      "lesetext_ref": "a1"
+    },
+    {
+      "id": "test-b-q08",
+      "frage": "Platzhalterfrage 8 zu Testdaten B: Welche Antwort ist richtig?",
+      "antworten": [
+        "Falsche Antwort A zu Frage 8, 0",
+        "Falsche Antwort B zu Frage 8, 1",
+        "Falsche Antwort C zu Frage 8, 2",
+        "Richtige Antwort zu Frage 8 (D)"
+      ],
+      "richtig": 3,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Erklärung zu Frage 8: Hier steht in ein bis zwei Sätzen, warum die richtige Antwort stimmt.",
+      "lesetext_ref": "a2"
+    },
+    {
+      "id": "test-b-q09",
+      "frage": "Platzhalterfrage 9 zu Testdaten B: Welche Antwort ist richtig?",
+      "antworten": [
+        "Richtige Antwort zu Frage 9 (A)",
+        "Falsche Antwort B zu Frage 9, 1",
+        "Falsche Antwort C zu Frage 9, 2",
+        "Falsche Antwort D zu Frage 9, 3"
+      ],
+      "richtig": 0,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "neben",
+      "erklaerung": "Erklärung zu Frage 9: Hier steht in ein bis zwei Sätzen, warum die richtige Antwort stimmt.",
+      "lesetext_ref": "a1"
+    },
+    {
+      "id": "test-b-q10",
+      "frage": "Platzhalterfrage 10 zu Testdaten B: Welche Antwort ist richtig?",
+      "antworten": [
+        "Falsche Antwort A zu Frage 10, 0",
+        "Richtige Antwort zu Frage 10 (B)",
+        "Falsche Antwort C zu Frage 10, 2",
+        "Falsche Antwort D zu Frage 10, 3"
+      ],
+      "richtig": 1,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "neben",
+      "erklaerung": "Erklärung zu Frage 10: Hier steht in ein bis zwei Sätzen, warum die richtige Antwort stimmt.",
+      "lesetext_ref": "a2"
+    }
+  ],
+  "kompetenzen": [
+    {
+      "id": "test-b-k1",
+      "kann_aussage": "Ich kann Platzhalter-Aussage 1 zu Testdaten B erklären.",
+      "typ": "sachwissen",
+      "lernhinweise": {
+        "1": "Hinweis (Stufe 1) zu Kompetenz 1.",
+        "2": "Hinweis (Stufe 2) zu Kompetenz 1.",
+        "3": "Hinweis (Stufe 3) zu Kompetenz 1.",
+        "4": "Hinweis (Stufe 4) zu Kompetenz 1."
+      },
+      "lesetext_ref": "a1"
+    },
+    {
+      "id": "test-b-k2",
+      "kann_aussage": "Ich kann Platzhalter-Aussage 2 zu Testdaten B erklären.",
+      "typ": "quellenarbeit",
+      "lernhinweise": {
+        "1": "Hinweis (Stufe 1) zu Kompetenz 2.",
+        "2": "Hinweis (Stufe 2) zu Kompetenz 2.",
+        "3": "Hinweis (Stufe 3) zu Kompetenz 2.",
+        "4": "Hinweis (Stufe 4) zu Kompetenz 2."
+      },
+      "lesetext_ref": "a2"
+    },
+    {
+      "id": "test-b-k3",
+      "kann_aussage": "Ich kann Platzhalter-Aussage 3 zu Testdaten B erklären.",
+      "typ": "urteilen",
+      "lernhinweise": {
+        "1": "Hinweis (Stufe 1) zu Kompetenz 3.",
+        "2": "Hinweis (Stufe 2) zu Kompetenz 3.",
+        "3": "Hinweis (Stufe 3) zu Kompetenz 3.",
+        "4": "Hinweis (Stufe 4) zu Kompetenz 3."
+      },
+      "lesetext_ref": "a1"
+    }
+  ]
+}
