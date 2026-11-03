@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "id": "11-1.1-nationalismus",
+  "jahrgang": 11,
+  "bpe": "1.1",
+  "kurztitel": "Nationalismus im 19. Jahrhundert",
+  "reihenfolge": 7,
+  "lesetext": [
+    {
+      "abschnitt_id": "a1",
+      "ueberschrift": "Ein altes Gefühl wird zur politischen Kraft",
+      "text_md": "Dass Menschen gleicher Sprache und Kultur ein Zusammengehörigkeitsgefühl entwickeln, ist zu allen Zeiten zu beobachten. Politische Folgen hatte es aber erst seit dem ausgehenden 18. und vor allem im 19. Jahrhundert. Bis dahin beriefen sich die Staaten auf ihre Herrscher, die durch das Gottesgnadentum legitimiert waren. Erst als diese Bindung nachließ, konnte die **Nation** an ihre Stelle treten.\n\nZuerst formierten sich **nationale Bewegungen**. Sie gingen davon aus, dass alle Menschen gleicher Sprache und Kultur ein Volk bilden und das Recht haben, sich in einem eigenen **Nationalstaat** zu organisieren. Weil sie dieses Ziel nur gegen die Fürsten erreichen konnten, waren sie oft zugleich liberal und demokratisch und fühlten sich mit den Bewegungen anderer Länder verbunden — beim Hambacher Fest 1832 wurden Polen und Franzosen hochgelebt.\n\nVon **Nationalismus** im strengen Sinn spricht man, wenn die Nation zum höchsten Wert wird, Freiheit und Demokratie verdrängt und sich aggressiv nach außen richtet. Zwangsläufig war diese Entwicklung nicht: Nationalliberale Kräfte wollten Einheit und Freiheit das ganze Jahrhundert hindurch zusammen denken."
+    },
+    {
+      "abschnitt_id": "a2",
+      "ueberschrift": "Warum gerade im 19. Jahrhundert?",
+      "text_md": "Die Kriege gegen Napoleon waren von vielen Freiwilligen geführt und als „Befreiungskriege“ empfunden worden. Dass der Wiener Kongress 1815 die alte Ordnung wiederherstellte, war kaum vermittelbar. Seit dem Ende des Heiligen Römischen Reiches 1806 fehlte zudem ein gemeinsamer Kaiser. Mit der beginnenden Industrialisierung zerbrachen Familien- und Dorfgemeinschaften, und die Bindungskraft der Kirchen ließ nach. Der nationale Gedanke wurde zum „Kitt“ der Gesellschaft."
+    },
+    {
+      "abschnitt_id": "a3",
+      "ueberschrift": "Kultur als Klammer — Kulturnation und Staatsnation",
+      "text_md": "Weil der Nationalstaat vorerst nicht erreichbar war, rückte die gemeinsame Kultur in den Vordergrund: die Märchensammlung der Brüder Grimm, Quellensammlungen zur „nationalen“ Geschichte, Denkmäler wie die Walhalla bei Regensburg (1842), der Weiterbau des Kölner Doms. Daraus erwuchs die Unterscheidung zwischen der **Staatsnation**, dem politischen Zusammenschluss aller Staatsbürger, und der **Kulturnation**, die durch Sprache und Kultur bestimmt sein soll. Die Forderung, beide müssten deckungsgleich sein, führte in Mischgebieten wie dem Elsass, in Teilen Polens, im Habsburgerreich und auf dem Balkan zu schweren Konflikten."
+    },
+    {
+      "abschnitt_id": "a4",
+      "ueberschrift": "Von der Verbrüderung zur Abgrenzung",
+      "text_md": "Als in Frankreich 1840 der Rhein als Grenze gefordert wurde (**Rheinkrise**), richtete sich die deutsche Nationalbewegung erstmals breit gegen einen äußeren Feind; Lieder wie Nikolaus Beckers „Sie sollen ihn nicht haben, den freien deutschen Rhein“ wurden populär. Der Konflikt mit Dänemark um Schleswig-Holstein ab 1848 lenkte den Blick weiter nach außen."
+    },
+    {
+      "abschnitt_id": "a5",
+      "ueberschrift": "Einstieg — Arndt: Was ist des Deutschen Vaterland? (1813)",
+      "text_md": "Ernst Moritz Arndt (1769–1860) fragt in seinem Lied von 1813 Strophe für Strophe, ob Preußen, Schwaben, Österreich, die Schweiz oder Tirol das Vaterland sei, und verneint jedes Mal: Es müsse „größer“ sein. In Strophe 7 gibt er die Antwort: „So weit die deutsche Zunge klingt“ — das Vaterland reicht so weit wie die deutsche Sprache. Strophe 9 fügt ein Feindbild hinzu: „wo jeder Franzmann heißet Feind“.\n\nAn der Karte des Deutschen Bundes von 1815 zeigt sich das Problem: Sprachgrenze und Bundesgrenze decken sich nicht. Ost- und Westpreußen, Schleswig, das Elsass und die Deutschschweiz liegen außerhalb, Böhmen, Krain und das Trentino mit nicht deutschsprachiger Bevölkerung innerhalb. Ein sprachlich bestimmter Nationsbegriff erzeugt Konflikte mit fast allen Nachbarn."
+    },
+    {
+      "abschnitt_id": "a6",
+      "ueberschrift": "Quelle A — Fichte: Die Sprache als innere Grenze (1808)",
+      "text_md": "Johann Gottlieb Fichte (1762–1814) hielt im Winter 1807/08 im französisch besetzten Berlin die „Reden an die deutsche Nation“. Seine These: Was dieselbe Sprache spricht, ist „durch die bloße Natur“ mit unsichtbaren Banden verknüpft. Die Sprachgrenzen sind die „innern Grenzen“, nach denen sich die äußeren Staatsgrenzen richten sollen — nicht nach Bergen und Flüssen.\n\nNeben der Sprache nennt Fichte ein zweites Merkmal: die **Abkunft**. Ein Volk könne kein Volk „andrer Abkunft und Sprache“ aufnehmen, ohne seine Entwicklung zu stören. Damit ist Zugehörigkeit nicht nur erlernbar, sondern auch an Herkunft gebunden."
+    },
+    {
+      "abschnitt_id": "a7",
+      "ueberschrift": "Quelle B — Renan: Die Nation als tägliches Plebiszit (1882)",
+      "text_md": "Ernest Renan (1823–1892) hielt seinen Vortrag „Was ist eine Nation?“ 1882 an der Sorbonne, elf Jahre nachdem das Deutsche Reich das Elsass und einen Teil Lothringens annektiert hatte — begründet mit Sprache und Abstammung der Bevölkerung. Frankreich hatte das Elsass seinerseits im 17. Jahrhundert unter Ludwig XIV. erworben; gefragt wurden die Bewohner weder damals noch 1871.\n\nRenan bestreitet, dass Rasse oder Sprache eine Nation begründen: „Die Sprache lädt dazu ein, sich zu vereinigen; sie zwingt nicht dazu.“ Eine Nation beruhe auf zwei Dingen: einem gemeinsamen Erbe an Erinnerungen und dem gegenwärtigen Willen zusammenzuleben. Ihr Dasein sei ein **„tägliches Plebiszit“**. Keine Nation habe das Recht, eine Provinz gegen den Willen ihrer Bewohner zu nehmen."
+    },
+    {
+      "abschnitt_id": "a8",
+      "ueberschrift": "Darstellung C — Meinecke: Kulturnation und Staatsnation (1908)",
+      "text_md": "Der Historiker Friedrich Meinecke (1862–1954) unterschied 1908 **Kulturnationen**, die vorzugsweise auf gemeinsamem Kulturbesitz beruhen (Sprache, Literatur, Religion), und **Staatsnationen**, die vorzugsweise auf gemeinsamer politischer Geschichte und Verfassung beruhen. Die Schweiz ist eine Staatsnation mit Angehörigen mehrerer Kulturnationen; die deutsche Kulturnation verteilte sich auf mehrere Staaten. Solche Begriffe sind Idealtypen: Keine Nation entspricht rein einem Typ."
+    },
+    {
+      "abschnitt_id": "a9",
+      "ueberschrift": "Darstellung D — Kohn und Nipperdey: Freiheit oder Macht?",
+      "text_md": "**Hans Kohn** (1891–1971), 1934 in die USA emigriert, unterschied 1944 zwei Nationsbegriffe: einen rationalen, freiheitlichen, zukunftsgerichteten und einen geschichtlich-romantischen. Der deutsche Nationalismus habe sich gegen Napoleon, aber auch gegen Aufklärung und Liberalismus gewandt; nach 1848 habe ein militanter Nationalismus gesiegt, der Macht über Freiheit stellte.\n\n**Thomas Nipperdey** (1927–1992) widersprach 1983: Kultur- und Staatsnation wüchsen zusammen; Nationalismus und Liberalismus seien in Deutschland „eigentlich identisch“, weil beide Selbstbestimmung gegen den Obrigkeitsstaat wollten. Spannungen zwischen Einheit und Freiheit seien zweitrangig.\n\nBeide Deutungen sind von ihrer Entstehungszeit geprägt — das erklärt die Perspektive, widerlegt sie aber nicht."
+    },
+    {
+      "abschnitt_id": "a10",
+      "ueberschrift": "Und heute? Das Staatsangehörigkeitsrecht",
+      "text_md": "Das deutsche Recht verbindet mehrere Prinzipien: Ein Kind ist Deutscher, wenn ein Elternteil Deutscher ist (Abstammung, seit 1913). Seit 2000 wird auch ein in Deutschland geborenes Kind ausländischer Eltern Deutscher, wenn ein Elternteil seit mindestens fünf Jahren rechtmäßig hier lebt und ein unbefristetes Aufenthaltsrecht hat. Einbürgerung setzt in der Regel fünf Jahre rechtmäßigen Aufenthalt, Deutsch auf Niveau B1, einen Einbürgerungstest und das Bekenntnis zur freiheitlichen demokratischen Grundordnung voraus. Art. 116 GG zählt auch Flüchtlinge und Vertriebene deutscher Volkszugehörigkeit zu den Deutschen. Es handelt sich um ein Mischsystem aus Elementen der Kultur- und der Staatsnation."
+    }
+  ],
+  "fragen": [
+    {
+      "id": "11-1.1-nationalismus-q01",
+      "frage": "Welches Merkmal nennt Arndt in seinem Lied von 1813 als Grenze des deutschen Vaterlandes?",
+      "antworten": [
+        "Die Verbreitung der deutschen Sprache",
+        "Die Grenzen des Deutschen Bundes von 1815",
+        "Die Grenzen des Königreichs Preußen",
+        "Die natürlichen Grenzen an Rhein und Alpen"
+      ],
+      "richtig": 0,
+      "schwierigkeit": "leicht",
+      "relevanz": "kern",
+      "erklaerung": "„So weit die deutsche Zunge klingt“: Arndt bestimmt das Vaterland über die Sprache. Gerade deshalb verwirft er Preußen, Österreich oder die Schweiz als jeweils zu klein.",
+      "lesetext_ref": "a5"
+    },
+    {
+      "id": "11-1.1-nationalismus-q02",
+      "frage": "Was unterscheidet nach dem Erklärungstext den Nationalismus im strengen Sinn von einer nationalen Bewegung?",
+      "antworten": [
+        "Die Nation wird zum höchsten Wert und verdrängt die Freiheit",
+        "Die Bewegung fordert erstmals einen eigenen Nationalstaat",
+        "Die Bewegung richtet sich gegen die regierenden Fürsten",
+        "Die Bewegung pflegt Kontakte zu Bewegungen in anderen Ländern"
+      ],
+      "richtig": 0,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Nationalstaat, Gegnerschaft zu den Fürsten und internationale Verbrüderung kennzeichnen die frühen nationalen Bewegungen. Nationalismus im strengen Sinn liegt vor, wenn die Nation alle anderen Werte überragt.",
+      "lesetext_ref": "a1"
+    },
+    {
+      "id": "11-1.1-nationalismus-q03",
+      "frage": "Welcher Umstand trug nach 1815 dazu bei, dass der nationale Gedanke an Kraft gewann?",
+      "antworten": [
+        "Die Gründung eines deutschen Nationalstaats durch den Wiener Kongress",
+        "Die Stärkung des Gottesgnadentums durch die Befreiungskriege",
+        "Die Enttäuschung über die Wiederherstellung der alten Ordnung 1815",
+        "Die wachsende Bindungskraft der Kirchen in den Städten"
+      ],
+      "richtig": 2,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Die Befreiungskriege waren als Volkskrieg erlebt worden; die Restauration der alten Ordnung 1815 enttäuschte. Gottesgnadentum und kirchliche Bindungen verloren dagegen an Kraft.",
+      "lesetext_ref": "a2"
+    },
+    {
+      "id": "11-1.1-nationalismus-q04",
+      "frage": "Wo verlaufen nach Fichte die „ersten, ursprünglichen und wahrhaft natürlichen Grenzen der Staaten“?",
+      "antworten": [
+        "Entlang großer Flüsse und Gebirge",
+        "Dort, wo die gemeinsame Sprache endet",
+        "Dort, wo die Fürsten sie vertraglich festlegen",
+        "Dort, wo die Bewohner in einer Abstimmung entscheiden"
+      ],
+      "richtig": 1,
+      "schwierigkeit": "leicht",
+      "relevanz": "kern",
+      "erklaerung": "Fichte spricht von „innern Grenzen“: Was dieselbe Sprache redet, gehört von Natur aus zusammen. Berge und Flüsse lehnt er ausdrücklich als Grund für ein Volk ab.",
+      "lesetext_ref": "a6"
+    },
+    {
+      "id": "11-1.1-nationalismus-q05",
+      "frage": "Welches zweite Merkmal neben der Sprache nennt Fichte in der dreizehnten Rede — und was folgt daraus?",
+      "antworten": [
+        "Die Religion; daraus folgt, dass Katholiken und Protestanten getrennte Völker sind",
+        "Die Verfassung; daraus folgt, dass jedes Volk sich eine eigene Konstitution geben muss",
+        "Die Abkunft; daraus folgt, dass Zugehörigkeit nicht nur erlernbar ist, sondern an Herkunft gebunden wird",
+        "Der Wohnort; daraus folgt, dass jeder Bewohner eines Gebiets zum Volk gehört"
+      ],
+      "richtig": 2,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Fichte schreibt, ein Volk könne keines „andrer Abkunft und Sprache“ aufnehmen, ohne seine Bildung zu stören. Damit tritt neben die erlernbare Sprache die nicht erlernbare Herkunft.",
+      "lesetext_ref": "a6"
+    },
+    {
+      "id": "11-1.1-nationalismus-q06",
+      "frage": "Was meint Renan mit der Formel vom „täglichen Plebiszit“?",
+      "antworten": [
+        "Eine Nation besteht nur, solange ihre Angehörigen ihr fortlaufend zustimmen",
+        "Eine Nation soll jeden Tag über neue Gesetze abstimmen",
+        "Die Zugehörigkeit zur Nation ergibt sich aus der täglich gesprochenen Sprache",
+        "Die Regierung einer Nation muss täglich neu gewählt werden"
+      ],
+      "richtig": 0,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Plebiszit heißt Volksabstimmung. Renan gebraucht das Wort als Bild: Nation ist ein fortdauernder Wille zusammenzuleben, keine Naturtatsache wie Sprache oder Abstammung.",
+      "lesetext_ref": "a7"
+    },
+    {
+      "id": "11-1.1-nationalismus-q07",
+      "frage": "Welche Folgerung zieht Renan für die Annexion des Elsass, auch wenn er sie nicht ausdrücklich nennt?",
+      "antworten": [
+        "Sie war gerechtfertigt, weil im Elsass überwiegend deutsche Dialekte gesprochen wurden",
+        "Sie war gerechtfertigt, weil das Elsass historisch zum Reich gehört hatte",
+        "Sie war unbedeutend, weil Grenzen für eine Nation keine Rolle spielen",
+        "Sie war illegitim, weil die Bewohner nicht gefragt wurden"
+      ],
+      "richtig": 3,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Für Renan entscheidet der Wille der Bewohner, nicht ihre Sprache: „Eine Provinz, das sind ihre Bewohner.“ Die Annexion erfolgte 1871 ohne Abstimmung. Allerdings hatte auch Frankreich das Elsass einst ohne Befragung erworben — Renans Maßstab trifft den französischen Anspruch ebenso.",
+      "lesetext_ref": "a7"
+    },
+    {
+      "id": "11-1.1-nationalismus-q08",
+      "frage": "Welches Beispiel führt Meinecke für eine Staatsnation mit Angehörigen verschiedener Kulturnationen an?",
+      "antworten": [
+        "Das Deutsche Kaiserreich",
+        "Die Schweiz",
+        "Das Kaisertum Österreich",
+        "Frankreich"
+      ],
+      "richtig": 1,
+      "schwierigkeit": "leicht",
+      "relevanz": "neben",
+      "erklaerung": "Meinecke nennt die Schweiz: ein Staat mit mehreren Sprachen, zusammengehalten durch gemeinsame Geschichte und Verfassung. Die deutsche Kulturnation verteilt sich dagegen auf mehrere Staaten.",
+      "lesetext_ref": "a8"
+    },
+    {
+      "id": "11-1.1-nationalismus-q09",
+      "frage": "Worin unterscheiden sich Kohn und Nipperdey in ihrer Deutung des deutschen Nationalismus im 19. Jahrhundert?",
+      "antworten": [
+        "Kohn hält den deutschen Nationalismus für liberal, Nipperdey für antiliberal",
+        "Beide halten ihn für antiliberal, streiten aber über den Zeitpunkt der Wende",
+        "Kohn untersucht vor allem Frankreich, Nipperdey vor allem Deutschland",
+        "Kohn sieht ihn als Gegensatz zum Liberalismus, Nipperdey als mit ihm identisch"
+      ],
+      "richtig": 3,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "kern",
+      "erklaerung": "Kohn betont den romantischen, antiaufklärerischen Zug und den Sieg eines militanten Nationalismus nach 1848. Nipperdey sieht beide Bewegungen vereint im Kampf gegen den Obrigkeitsstaat.",
+      "lesetext_ref": "a9"
+    },
+    {
+      "id": "11-1.1-nationalismus-q10",
+      "frage": "Welches Element des heutigen Staatsangehörigkeitsrechts entspricht am ehesten dem Verständnis einer Staatsnation?",
+      "antworten": [
+        "Erwerb der Staatsangehörigkeit durch einen deutschen Elternteil",
+        "Die Zugehörigkeit von Vertriebenen deutscher Volkszugehörigkeit nach Art. 116 GG",
+        "Das Bekenntnis zur freiheitlichen demokratischen Grundordnung bei der Einbürgerung",
+        "Die Vererbung der Staatsangehörigkeit über Generationen im Ausland"
+      ],
+      "richtig": 2,
+      "schwierigkeit": "anspruchsvoller",
+      "relevanz": "neben",
+      "erklaerung": "Das Bekenntnis zur Verfassungsordnung ist ein Willensakt im Sinne Renans. Abstammung und „Volkszugehörigkeit“ sind Elemente einer Kultur- bzw. Abstammungsnation. Das heutige Recht ist ein Mischsystem.",
+      "lesetext_ref": "a10"
+    }
+  ],
+  "kompetenzen": [
+    {
+      "id": "11-1.1-nationalismus-k1",
+      "typ": "sachwissen",
+      "lesetext_ref": "a2",
+      "kann_aussage": "Ich kann erklären, warum der nationale Gedanke nach 1815 zur politischen Kraft wurde.",
+      "lernhinweise": {
+        "1": "Vertiefe: Erkläre, warum nationale Bewegungen anfangs fast immer zugleich liberal waren, und nenne ein Ereignis, an dem sich das zeigt.",
+        "2": "Schreibe die Gründe in eine Ursachenkette: Befreiungskriege — Enttäuschung 1815 — kein Kaiser — Industrialisierung. Ergänze zu jedem Glied einen Halbsatz.",
+        "3": "Lies den Abschnitt „Warum gerade im 19. Jahrhundert?“ und markiere vier Gründe. Lerne sie als Liste.",
+        "4": "Beginne mit zwei Gründen: die Befreiungskriege gegen Napoleon und die Enttäuschung über den Wiener Kongress 1815. Die übrigen nimmst du danach dazu."
+      }
+    },
+    {
+      "id": "11-1.1-nationalismus-k2",
+      "typ": "sachwissen",
+      "lesetext_ref": "a8",
+      "kann_aussage": "Ich kann Kulturnation und Staatsnation unterscheiden und an Fichte und Renan erläutern.",
+      "lernhinweise": {
+        "1": "Prüfe die Grenzen der Begriffe: Warum passt Fichte wegen des Merkmals „Abkunft“ nicht ganz in Meineckes Typ der Kulturnation?",
+        "2": "Lege eine Tabelle an: Kulturnation / Staatsnation — Merkmal — Beispiel — Autor. Fülle sie mit Fichte, Renan, der Schweiz und dem Kaiserreich.",
+        "3": "Lies die Abschnitte zu Meinecke, Fichte und Renan. Halte für jeden einen Satz fest: Was hält eine Nation zusammen?",
+        "4": "Merke dir zwei Stichworte: Kulturnation = Sprache und Kultur (Fichte), Staatsnation = Geschichte und Wille (Renan). Bitte in der nächsten Stunde um ein weiteres Beispiel."
+      }
+    },
+    {
+      "id": "11-1.1-nationalismus-k3",
+      "typ": "quellenarbeit",
+      "lesetext_ref": "a5",
+      "kann_aussage": "Ich kann an der Karte von 1815 zeigen, welche Probleme ein sprachlich bestimmter Nationsbegriff aufwirft.",
+      "lernhinweise": {
+        "1": "Übertrage das Problem auf ein Beispiel außerhalb Deutschlands, etwa das Habsburgerreich oder den Balkan, und erkläre, warum dort besonders viele Konflikte entstanden.",
+        "2": "Nenne je zwei Gebiete, die deutschsprachig, aber außerhalb des Bundes lagen, und zwei, die im Bund lagen, aber nicht deutschsprachig waren.",
+        "3": "Lies den Abschnitt zum Einstieg und suche die genannten Gebiete auf der Karte. Markiere sie in zwei Farben.",
+        "4": "Halte zuerst nur eine Aussage fest: Sprachgrenzen und Staatsgrenzen waren 1815 nicht deckungsgleich. Suche dann mit Hilfe ein Beispiel auf der Karte."
+      }
+    },
+    {
+      "id": "11-1.1-nationalismus-k4",
+      "typ": "urteilen",
+      "lesetext_ref": "a9",
+      "kann_aussage": "Ich kann die Deutungen von Kohn und Nipperdey gegenüberstellen und begründet beurteilen.",
+      "lernhinweise": {
+        "1": "Formuliere ein eigenes Urteil für die Zeit vor und nach 1848 getrennt und belege es mit je einer Quelle (Arndt, Fichte, Hambach).",
+        "2": "Schreibe beide Thesen in je einem Satz auf und ordne jeder ein Argument und einen Beleg aus den Quellen zu.",
+        "3": "Lies den Abschnitt zu Kohn und Nipperdey und unterstreiche bei beiden den Satz, der die These enthält.",
+        "4": "Merke dir den Kern: Kohn — Gegensatz von Nationalismus und Freiheit; Nipperdey — beide gehören zusammen. Frage in der nächsten Stunde nach einem Beispiel für jede Seite."
+      }
+    }
+  ]
+}
